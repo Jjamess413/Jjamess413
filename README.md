@@ -19,7 +19,7 @@ I am developing a focused portfolio around business decisions and reproducible a
 
 | Project | Business focus | Status |
 | --- | --- | --- |
-| Inventory & SKU Performance Analysis | Revenue, ABC prioritisation and replenishment scenarios | In development — first priority |
+| [Inventory & SKU Performance Analysis](https://github.com/Jjamess413/inventory-sku-performance-analysis) | Revenue, ABC prioritisation and replenishment scenarios | SQL foundation validated; Power BI and owner walkthrough in progress |
 | Logistics Quality & Delivery Analytics | Delivery performance, exceptions and improvement measures | Planned |
 | E-commerce Profitability & Pricing Analytics | Shipping, fees, discounting and contribution margin | Planned |
 
